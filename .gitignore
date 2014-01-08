@@ -1,0 +1,4 @@
+# Ignore build output from sbt
+/target
+/project/target
+/project/project
